@@ -1,4 +1,4 @@
-# advanced_DCF_valuation_using_R
+# Advanced_DCF_Valuation_Using_R
 **'Advanced Discounted Cash Flow (DCF) Valuation Using R'** textbook
 
 **Brian K. Lee, MBA, PRM, CMA, CFA**
