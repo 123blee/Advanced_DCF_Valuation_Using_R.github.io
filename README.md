@@ -3,7 +3,7 @@
 
 **Brian K. Lee, MBA, PRM, CMA, CFA**
 
-**Publication May 2021**
+**Publication - May 2021**
 
 **Files in this repository are text assets associated with my above textbook.**
 
