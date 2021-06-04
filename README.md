@@ -4,7 +4,7 @@
 
 **Publication - May 2021**
 
-**Files in this repository are text assets (videos, spreadsheets of formatted R output, fully commented R code, R code, PDF summary) associated with my above textbook.**
+**Files in this repository are text assets (instructional videos, spreadsheets of formatted R output, fully commented R code, PDF summary) associated with my above textbook.**
 
 **1. 800+ pages**
 
